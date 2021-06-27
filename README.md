@@ -1,5 +1,3 @@
-
-<a href="csmadlibs.github.io">CSmadlibs</a>
 <h2>To use this site, please select any of the links below to go to whichever puzzle you want to do.<h2>
 <h3>Ninjas</h3>
 <ul>
@@ -7,4 +5,4 @@
 </ul>
 <h3>Animals</h3>
 <ul>
-    <li><a href="">Dog show</a></li>
+    <li><a href="https://csmadlibs.github.io/animals-dogshow/">Dog show</a></li>
