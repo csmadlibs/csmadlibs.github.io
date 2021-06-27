@@ -1,4 +1,5 @@
-# csmadlibs.github.io
+
+<a href="csmadlibs.github.io">CSmadlibs</a>
 <h2>To use this site, please select any of the links below to go to whichever puzzle you want to do.<h2>
 <h3>Ninjas</h3>
 <ul>
